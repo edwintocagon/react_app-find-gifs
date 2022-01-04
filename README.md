@@ -1,3 +1,4 @@
 # About
 
-React application to search for gifs with the api https://api.giphy.com
+link:
+https://edwintocagon.github.io/react_app-find-gifs/
