@@ -8,7 +8,7 @@ export const GifExpertApp = ({ defaultCategories = ["Computador"] }) => {
 
   return (
     <>
-      <h2>Buscador de Gifs</h2>
+      <h2 className="">Buscador de Gifs</h2>
       <AddCategory categories={categories} setCategories={setCategories} />
       <hr />
 
